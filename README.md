@@ -1,1 +1,0 @@
-# navvis-docusaurus-template
