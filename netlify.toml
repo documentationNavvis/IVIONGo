@@ -1,6 +1,0 @@
-# Rewrite a path
-[[redirects]]
-from = "/*"
-to = "https://knowledge.navvis.com/docs/navvis-ivion-go"
-status = 301
-force = true
